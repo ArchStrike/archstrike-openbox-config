@@ -1,11 +1,11 @@
 feh --bg-fill --no-fehbg --randomize /usr/share/archstrike-openbox-config/wallpapers/* &
 clipit -d &
-xbacklight -set 100 &
+xxxkb &
+volumeicon &
+tint2 &
 # Enable as required
-#xxkb &
-#volumeicon &
-#tint2 &
 #spacefm -d &
+#xbacklight -set 100 &
 #/usr/bin/synclient TouchpadOff=1 &
 #compton -cCGb &
 #xcompmgr -c -C -t-5 -l-5 -r4.2 -o.55 &
