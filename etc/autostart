@@ -1,15 +1,15 @@
 tint2 &
 volumeicon &
 feh --bg-fill --no-fehbg --randomize /usr/share/archstrike-openbox-config/wallpapers/* &
-#xscreensaver --no-splash &
 clipit -d &
-/usr/bin/VBoxClient-all &
-#wicd-gtk &
 conky &
-# Enable as required
-#xcompmgr -c -C -t-5 -l-5 -r4.2 -o.55 &
-#compton -cCGb &
 xbacklight -set 100 &
-#/usr/bin/synclient TouchpadOff=1 &
 xxkb &
+# Enable as required
 #spacefm -d &
+#/usr/bin/synclient TouchpadOff=1 &
+#compton -cCGb &
+#xcompmgr -c -C -t-5 -l-5 -r4.2 -o.55 &
+#wicd-gtk &
+#xscreensaver --no-splash &
+#wicd-gtk &
