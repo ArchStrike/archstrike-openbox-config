@@ -1,6 +1,6 @@
 tint2 &
 volumeicon &
-feh --bg-fill /usr/share/wallpapers/OpenBox_Wallpaper.jpg &
+feh --bg-fill --no-fehbg --randomize /usr/share/archstrike-openbox-config/wallpapers/* &
 #xscreensaver --no-splash &
 clipit -d &
 /usr/bin/VBoxClient-all &
