@@ -23,7 +23,7 @@
 use strict;
 
 # Command to lauch files with
-my $cmd = "spacefm";
+my $cmd = "thunar";
 
 my $path = $ARGV[0];
 $path = "$ENV{'HOME'}" if $path eq "";

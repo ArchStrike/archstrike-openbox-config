@@ -4,7 +4,7 @@ xxxkb &
 volumeicon &
 tint2 &
 # Enable as required
-#spacefm -d &
+#thunar -d &
 #xbacklight -set 100 &
 #/usr/bin/synclient TouchpadOff=1 &
 #compton -cCGb &

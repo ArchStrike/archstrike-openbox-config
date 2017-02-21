@@ -59,7 +59,7 @@ obgenmenu: menu entry provided by obmenu-generator
 
 our $SCHEMA = [
     #          COMMAND             LABEL                ICON
-    {item => ['spacefm',       'File Manager',      'file-manager']},
+    {item => ['thunar',       'File Manager',      'file-manager']},
     {item => ['terminator',    'Terminal',          'terminal']},
     {item => ['firefox',       'Web Browser',       'web-browser']},
     {item => ['dmenu',         'Run command',       'system-run']},
